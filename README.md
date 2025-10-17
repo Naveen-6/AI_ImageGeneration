@@ -9,7 +9,11 @@
 A full-stack MERN application that allows users to generate images using OpenAI's DALL·E API, share them with the community, and download their creations. Built with modern tools like React, Node.js, Express, MongoDB, and Tailwind CSS.
 
 ---
+🌐 Live Demo
+Frontend: ai-image-generation-frontend-rho.vercel.app
+Backend: https://ai-imagegeneration-backend.onrender.com
 
+---
 
 
 ## 🚀 Features
