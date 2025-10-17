@@ -10,12 +10,7 @@ A full-stack MERN application that allows users to generate images using OpenAI'
 
 ---
 
-## 🌐 Live Demo
 
-- **Frontend:** [https://image-generation-ai-gilt.vercel.app](https://image-generation-ai-gilt.vercel.app)  
-- **Backend:** [https://imagegen-api.onrender.com](https://imagegen-api.onrender.com)
-
----
 
 ## 🚀 Features
 
@@ -51,8 +46,8 @@ A full-stack MERN application that allows users to generate images using OpenAI'
 ### 📁 Clone the Project
 
 ```bash
-git clone https://github.com/bharathsai-vemulapalli/ai-image-generator.git
-cd ai-image-generator
+git clone https://github.com/Naveen-6/AI_ImageGeneration.git
+cd ImageGeneration-AI
 ```
 
 ### 🔧 Backend Setup
@@ -75,7 +70,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 Start the server:
 
 ```bash
-npm run dev
+npm start
 ```
 
 ---
@@ -129,17 +124,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
-**Bharath Sai Vemulapalli**  
+**Naveen Sai**  
 
 
----
-
-_Last updated: May 02, 2025_
