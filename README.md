@@ -10,7 +10,9 @@ A full-stack MERN application that allows users to generate images using OpenAI'
 
 ---
 🌐 Live Demo
+
 Frontend: ai-image-generation-frontend-rho.vercel.app
+
 Backend: https://ai-imagegeneration-backend.onrender.com
 
 ---
