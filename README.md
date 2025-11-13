@@ -9,18 +9,10 @@
 A full-stack MERN application that allows users to generate images using OpenAI's DALL·E API, share them with the community, and download their creations. Built with modern tools like React, Node.js, Express, MongoDB, and Tailwind CSS.
 
 ---
-## 🌐 Live Demo
-
-- **Frontend:** https://ai-image-generation-frontend-rho.vercel.app/
-- **Backend:** https://ai-imagegeneration-backend.onrender.com/
-- 
 
 ## 🌐 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://ai-image-generation-frontend-rho.vercel.app/)
 
-[![Frontend](https://img.shields.io/badge/Frontend-Live-green?style=for-the-badge)](https://ai-image-generation-frontend-rho.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge)](https://ai-imagegeneration-backend.onrender.com/)
-
----
 
 
 ## 🚀 Features
